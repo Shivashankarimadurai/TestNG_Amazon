@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-31T10:06:19 IST" name="Default suite" finished-at="2024-05-31T10:08:32 IST" duration-ms="132905">
+    <groups>
+    </groups>
+    <test started-at="2024-05-31T10:06:19 IST" name="Default test" finished-at="2024-05-31T10:08:32 IST" duration-ms="132905">
+      <class name="com.runner.Amazon1">
+        <test-method is-config="true" signature="extentReportStartUp()[pri:0, instance:com.runner.Amazon1@f09733f]" started-at="2024-05-31T10:06:19 IST" name="extentReportStartUp" finished-at="2024-05-31T10:06:19 IST" duration-ms="406" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentReportStartUp -->
+        <test-method is-config="true" signature="getlaunch()[pri:0, instance:com.runner.Amazon1@f09733f]" started-at="2024-05-31T10:06:19 IST" name="getlaunch" finished-at="2024-05-31T10:06:27 IST" duration-ms="7422" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getlaunch -->
+        <test-method signature="inValidEmailId()[pri:1, instance:com.runner.Amazon1@f09733f]" started-at="2024-05-31T10:06:27 IST" name="inValidEmailId" finished-at="2024-05-31T10:06:31 IST" duration-ms="4767" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inValidEmailId -->
+        <test-method signature="validEmailIdAndInvalidPassword()[pri:2, instance:com.runner.Amazon1@f09733f]" started-at="2024-05-31T10:06:31 IST" name="validEmailIdAndInvalidPassword" finished-at="2024-05-31T10:06:51 IST" duration-ms="19077" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validEmailIdAndInvalidPassword -->
+        <test-method signature="emailIdWithEmptyText()[pri:3, instance:com.runner.Amazon1@f09733f]" started-at="2024-05-31T10:06:51 IST" name="emailIdWithEmptyText" finished-at="2024-05-31T10:06:53 IST" duration-ms="2595" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emailIdWithEmptyText -->
+        <test-method signature="validEmailIdWithEmptyPassword()[pri:4, instance:com.runner.Amazon1@f09733f]" started-at="2024-05-31T10:06:53 IST" name="validEmailIdWithEmptyPassword" finished-at="2024-05-31T10:06:57 IST" duration-ms="3700" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validEmailIdWithEmptyPassword -->
+        <test-method signature="validLoginTest()[pri:5, instance:com.runner.Amazon1@f09733f]" started-at="2024-05-31T10:06:57 IST" name="validLoginTest" finished-at="2024-05-31T10:07:11 IST" duration-ms="13818" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLoginTest -->
+        <test-method signature="searchProduct()[pri:6, instance:com.runner.Amazon1@f09733f]" started-at="2024-05-31T10:07:11 IST" name="searchProduct" finished-at="2024-05-31T10:07:27 IST" duration-ms="16184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProduct -->
+        <test-method signature="searchProduct2()[pri:7, instance:com.runner.Amazon1@f09733f]" started-at="2024-05-31T10:07:27 IST" name="searchProduct2" finished-at="2024-05-31T10:07:39 IST" duration-ms="12241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProduct2 -->
+        <test-method signature="searchProduct3()[pri:8, instance:com.runner.Amazon1@f09733f]" started-at="2024-05-31T10:07:39 IST" name="searchProduct3" finished-at="2024-05-31T10:07:54 IST" duration-ms="14860" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProduct3 -->
+        <test-method signature="makePayment()[pri:9, instance:com.runner.Amazon1@f09733f]" started-at="2024-05-31T10:07:54 IST" name="makePayment" finished-at="2024-05-31T10:08:32 IST" duration-ms="37693" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- makePayment -->
+        <test-method is-config="true" signature="BrowserClose()[pri:0, instance:com.runner.Amazon1@f09733f]" started-at="2024-05-31T10:08:32 IST" name="BrowserClose" finished-at="2024-05-31T10:08:32 IST" duration-ms="470" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserClose -->
+        <test-method is-config="true" signature="extentReportEnd()[pri:0, instance:com.runner.Amazon1@f09733f]" started-at="2024-05-31T10:08:32 IST" name="extentReportEnd" finished-at="2024-05-31T10:08:35 IST" duration-ms="2570" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentReportEnd -->
+      </class> <!-- com.runner.Amazon1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
